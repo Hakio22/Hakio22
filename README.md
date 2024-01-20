@@ -8,7 +8,7 @@ Despite working as a Project Manager, I like to learn programming languages to m
   <img align="center" alt="Akio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Akio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Akio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Akio-Vader" height="150" width="150" src="https://media.giphy.com/media/26FL0ydLDEcARWY0g/giphy.gif">
+  <img align="right" alt="Akio-Vader" height="120" width="120" src="https://media.giphy.com/media/26FL0ydLDEcARWY0g/giphy.gif">
 </div>
   
   ##
